@@ -1,0 +1,15 @@
+.myprojects-thumbnail {
+  max-width: 60%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/******************************************************************************/
+/* BELOW 480px  */
+/******************************************************************************/
+@media (max-width: 30em) {
+  .myprojects-thumbnail {
+    max-width: 70%;
+  }
+}

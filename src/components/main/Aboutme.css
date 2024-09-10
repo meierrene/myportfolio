@@ -1,0 +1,54 @@
+.aboutme-container {
+  padding: 1.8rem;
+  margin-top: 9.6rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.8rem;
+}
+
+.personal-pic {
+  width: 16rem;
+  height: auto;
+  border-radius: 50%;
+  border: 8px solid #444;
+}
+
+.story-telling {
+  padding: 1.8rem;
+  text-justify: distribute;
+  font-size: 2.4rem;
+}
+
+.icons-container {
+  margin: 4.8rem 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  justify-items: center;
+}
+
+.icons {
+  width: 6.4rem;
+  height: 6.4rem;
+  cursor: pointer;
+  color: #ccc;
+  transition: all 0.3s;
+}
+
+.icons:hover {
+  color: #444;
+}
+
+/******************************************************************************/
+/* BELOW 480px  */
+/******************************************************************************/
+@media (max-width: 30em) {
+  .story-telling {
+    font-size: 2rem;
+  }
+
+  .icons-container {
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 4.8rem;
+  }
+}

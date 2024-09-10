@@ -1,0 +1,8 @@
+.gallery-container {
+  margin-top: 12rem;
+}
+
+.gallery {
+  row-gap: 3.6rem;
+  column-gap: 3rem;
+}

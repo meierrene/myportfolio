@@ -1,0 +1,12 @@
+.greetings-container {
+  padding-top: 20rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 1.8rem;
+}
+
+.personal-icon {
+  width: 240px;
+  height: auto;
+}

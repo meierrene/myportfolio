@@ -1,0 +1,32 @@
+.donation-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.8rem;
+  padding: 3.6rem;
+  align-items: center;
+}
+
+form {
+  width: 100%;
+}
+
+.paypal-icon {
+  background-color: #fff;
+  padding: 4px;
+  border-radius: 14px;
+  margin: 0 1.2rem;
+}
+
+.rocket-icon {
+  margin-top: 6.4rem;
+  width: 64px;
+}
+
+/******************************************************************************/
+/* BELOW 480px  */
+/******************************************************************************/
+@media (max-width: 30em) {
+  .paypal-icon {
+    margin: 1.2rem;
+  }
+}
