@@ -1,7 +1,7 @@
 import Header from './components/header/Header';
 import Main from './components/Main';
 import Footer from './components/footer/Footer';
-import './styles/background-space.css';
+import '../styles/background-space.css';
 import './App.css';
 
 const App = () => {
