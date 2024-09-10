@@ -8,7 +8,7 @@ export const sections = [
 export const highlightedProjects = [
   {
     name: 'Mario Game',
-    link: 'https://renemeier-gallery.netlify.app/projects/mario-game/',
+    link: 'https://gallery.renemeier.info/projects/mario/',
     image: 'mariogame.png',
     description:
       'Unofficial Mario game using kaboom.js (Not compatible to mobile).',
@@ -22,7 +22,7 @@ export const highlightedProjects = [
   },
   {
     name: 'MeiersBook',
-    link: 'https://meiersblog.herokuapp.com/',
+    link: 'https://meiersbook.renemeier.info/',
     image: 'meiersbook.png',
     description:
       'My own blog to post and share photos. This project was made with MERN Stack technologies (stands for MongoExpressReactNodeJs). Still working in progress',
@@ -46,57 +46,57 @@ export const highlightedProjects = [
 export const galleryProjects = [
   {
     name: 'Bankist App',
-    link: 'https://renemeier-gallery.netlify.app/projects/bankist-app/',
+    link: 'https://gallery.renemeier.info/projects/bankistapp/',
     image: 'bankist-app.png',
   },
   {
     name: 'Bankist Homepage',
-    link: 'https://renemeier-gallery.netlify.app/projects/bankist-homepage/',
+    link: 'https://gallery.renemeier.info/projects/bankisthomepage/',
     image: 'bankist-homepage.png',
   },
   {
     name: 'Dicee Game',
-    link: 'https://renemeier-gallery.netlify.app/projects/dicee-game/dicee',
+    link: 'https://gallery.renemeier.info/projects/diceegame/',
     image: 'dicee-game.png',
   },
   {
     name: 'Drum Kit Play',
-    link: 'https://renemeier-gallery.netlify.app/projects/drumkit/',
+    link: 'https://gallery.renemeier.info/projects/drumkit/',
     image: 'drumkit.png',
   },
   {
     name: 'Guess my number Game',
-    link: 'https://renemeier-gallery.netlify.app/projects/guess-my-number/',
+    link: 'https://gallery.renemeier.info/projects/guessmynumber/',
     image: 'guess-my-number.png',
   },
   {
     name: 'Mapty',
-    link: 'https://renemeier-gallery.netlify.app/projects/mapty/',
+    link: 'https://gallery.renemeier.info/projects/mapty',
     image: 'mapty.png',
   },
   {
     name: 'Omnifood template website',
-    link: 'https://renemeier-gallery.netlify.app/projects/omnifood/',
+    link: 'https://gallery.renemeier.info/projects/omnifood/',
     image: 'omnifood.png',
   },
   {
     name: 'Pig Game',
-    link: 'https://renemeier-gallery.netlify.app/projects/pig-game/',
+    link: 'https://gallery.renemeier.info/projects/piggame/',
     image: 'piggame.png',
   },
   {
     name: 'Simon Game',
-    link: 'https://renemeier-gallery.netlify.app/projects/simongame/',
+    link: 'https://gallery.renemeier.info/projects/simongame/',
     image: 'simongame.png',
   },
   {
     name: 'WhatsApp Message sender',
-    link: 'https://renemeier-gallery.netlify.app/projects/whatsapp-message/',
+    link: 'https://gallery.renemeier.info/projects/whatsappmessage/',
     image: 'whatsapp-msg.png',
   },
   {
     name: 'Where Am I?',
-    link: 'https://renemeier-gallery.netlify.app/projects/where-am-i/',
+    link: 'https://gallery.renemeier.info/projects/whereami/',
     image: 'where-am-i.png',
   },
 ];
