@@ -18,34 +18,31 @@ const Aboutme = () => {
         </p>
         <br />
         <p>
-          I'm fullstack Dev and very excited for programming. My first contact
-          with programming was when I studied Mechanical Engineering with
-          <code>.c</code> language in 2008. After several years I've decided to
-          go deeper for programming. Actually I'm searching for homework and
-          freelance jobs to get even better.
+          Greetings, Earthlings! I’m René Meier, an airline captain with a
+          cosmic passion for technology and space exploration. After navigating
+          the skies as a pilot, I’ve set my sights on a new frontier—full-stack
+          development. My journey from the cockpit to coding has been fueled by
+          curiosity, a love for problem-solving, and an unquenchable thirst for
+          innovation. With a Bachelor’s degree in Mechanical Engineering from
+          FACENS, I’ve always been fascinated by how things work, whether it’s
+          an aircraft or a complex web application. Over the past few years,
+          I’ve ventured into the vast universe of JavaScript technologies,
+          mastering React, Node.js, and CSS frameworks. My portfolio, themed
+          around my love for outer space, showcases a variety of projects that
+          reflect both my technical skills and my passion for exploration—like a
+          quasi-replica of the Super Mario game and a full-stack social
+          platform. Fluent in Portuguese, German, and English, and with a star
+          map of basic knowledge in Italian, Swedish, and Finnish, I’m on a
+          mission to contribute to innovative projects in the Nordic region,
+          Europe, or North America. I’m ready to launch into the next phase of
+          my career, bringing the same precision and dedication from my aviation
+          background to the tech industry. When I’m not coding or flying, you
+          can find me gazing at the stars, exploring the latest in space
+          technology, or learning new languages. Let’s connect and explore the
+          possibilities of working together. Because in this universe, the sky
+          is not the limit.
         </p>
         <br />
-        <p>Summarizing...</p>
-        <br />
-        <ul>
-          <li>
-            <span role="img" aria-label="seedling">
-              🌱
-            </span>
-            I’m currently learning:&nbsp;
-            <code>C#</code>, <code>React Native</code>, <code>MongoDB</code>;
-          </li>
-          <li>
-            <span role="img" aria-label="framed picture">
-              🖼️
-            </span>
-            And I have some frameworks skills like:&nbsp;
-            <code>NodeJS</code>, <code>Express</code>, <code>React.JS</code>,{' '}
-            <code>Next.JS</code>, <code>Unity</code> and so on...
-          </li>
-        </ul>
-        <br />
-
         <p>
           <span role="img" aria-label="globe">
             🌍
